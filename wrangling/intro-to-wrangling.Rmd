@@ -10,3 +10,4 @@ However, very rarely in a data science project is data easily available as part 
 Here we cover several common steps of the data wrangling process including tidying data, string processing, html parsing, working with dates and times, and text mining. Rarely are all these wrangling steps necessary in a single analysis, but data scientists will likely face them all at some point. Some of the examples we use to demonstrate data wrangling techniques are based on the work we did to convert raw data into the tidy datasets provided by the __dslabs__ package and used in the book as examples.
 
 
+getwd()
